@@ -1,8 +1,8 @@
 # Hybrid_Course_Recommendation_System
 
-* All files, including source code and data sources can be found [here](https://drive.google.com/drive/folders/1a_pL2hVAQ5S_1n2Erin0-WcN9boa204e?usp=drive_link)
+All files, including source code and data sources can be found [here](https://drive.google.com/drive/folders/1a_pL2hVAQ5S_1n2Erin0-WcN9boa204e?usp=drive_link)
 
-* Link to report : [Here](https://drive.google.com/file/d/1Vu-d61rZfDthM4mEUxOXn_zKShXhBnXw/view?usp=drive_link)
+Link to report : [Here](https://drive.google.com/file/d/1Vu-d61rZfDthM4mEUxOXn_zKShXhBnXw/view?usp=drive_link)
 
 ### Motivation
 The business issue our project addresses is ensuring that our course recommendation system
